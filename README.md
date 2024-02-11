@@ -1,5 +1,10 @@
 # Sheleton
 
+bash best practices:
+
+https://hyperskill.org/learn/step/19230
+https://bertvv.github.io/cheat-sheets/Bash.html
+
 Sheleton is a Bash skeleton (S[h|k]eleton).
 
 ## Usage
